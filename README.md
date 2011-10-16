@@ -14,3 +14,12 @@ Client Architecture
 -------------------
 
 ![Client Architecture](http://i.imgur.com/PMQsu.png)
+
+
+Documents
+---------
+
+* [Slides](https://github.com/downloads/vbajpai/jjabber/slides.pdf)
+* [Client JAR](https://github.com/downloads/vbajpai/jjabber/jjabber_client.jar)
+* [Server JAR](https://github.com/downloads/vbajpai/jjabber/jjabber_server.jar)
+
